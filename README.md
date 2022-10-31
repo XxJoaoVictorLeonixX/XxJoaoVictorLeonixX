@@ -4,7 +4,8 @@
 -   🌱 Estudando HTMl, CSS, JavaScript e Java
 -   📫 Contate-me no E-mail: joaovictorleoni12345678@gmail.com
 -   😄 Pronouns: ele/dele
-
+-    https://www.linkedin.com/in/jo%C3%A3o-victor-leoni-11416720a/
+-    
 <div align="center">
   <a href="https://github.com/XxJoaoVictorLeonixX">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XxJoaoVictorLeonixX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
