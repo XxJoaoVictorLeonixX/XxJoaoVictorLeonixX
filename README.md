@@ -1,7 +1,7 @@
 ###       Olá, me chamo João Victor, tenho 18 anos e estou cursando Ciência da Computação pela FAESA.
 
 -    🔭 Apenas estudando
--   🌱 Estudando HTMl, CSS, JavaScript e Java
+-   🌱 Estudando HTMl, CSS, Java e Pyton
 -   📫 Contate-me no E-mail: joaovictorleoni12345678@gmail.com
 -   😄 Pronouns: ele/dele
 -    https://www.linkedin.com/in/jo%C3%A3o-victor-leoni-11416720a/
