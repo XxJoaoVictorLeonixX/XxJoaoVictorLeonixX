@@ -2,7 +2,7 @@
           Tenho o objetivo te me tornar um Dev-Pyton, e trabalhar em automação e desenvolvimento web.
 
 -    🔭 Apenas estudando
--   🌱 Estudando HTMl, CSS, Java(pela faculdade) e Pyton.
+-   🌱 Estudando HTMl, CSS, Java(pela faculdade) e JavaScript
 -   📫 Contate-me no E-mail: joaovictorleoni12345678@gmail.com
 -   😄 Pronouns: ele/dele
 -    https://www.linkedin.com/in/jo%C3%A3o-victor-leoni-11416720a/
